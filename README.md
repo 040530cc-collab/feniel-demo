@@ -4,8 +4,6 @@
 
 **[下载 Windows 游玩版 ZIP](https://github.com/040530cc-collab/feniel-demo/releases/latest/download/Feniel_Demo_Windows.zip)**
 
-**[百度网盘备用下载](https://pan.baidu.com/s/1tIc6v1vsuVgNM0jnjzDwbg?pwd=3fgq)** · 提取码：`3fgq`（永久有效）
-
 [查看发行版页面](https://github.com/040530cc-collab/feniel-demo/releases/latest)
 
 ## 下载与运行
